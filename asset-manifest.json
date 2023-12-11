@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cv-generator-build/static/css/main.e6c13ad2.css",
-    "main.js": "/cv-generator-build/static/js/main.31aba7b3.js",
+    "main.js": "/cv-generator-build/static/js/main.a511a2bc.js",
     "static/media/OpenSans-Medium.ttf": "/cv-generator-build/static/media/OpenSans-Medium.5b0a682fe3717764627e.ttf",
     "static/media/OpenSans-Bold.ttf": "/cv-generator-build/static/media/OpenSans-Bold.45847e90261782dc01a6.ttf",
     "static/media/OpenSans-Regular.ttf": "/cv-generator-build/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
     "static/media/OpenSans-SemiBold.ttf": "/cv-generator-build/static/media/OpenSans-SemiBold.dcf2e322dbaa037ca821.ttf",
     "index.html": "/cv-generator-build/index.html",
     "main.e6c13ad2.css.map": "/cv-generator-build/static/css/main.e6c13ad2.css.map",
-    "main.31aba7b3.js.map": "/cv-generator-build/static/js/main.31aba7b3.js.map"
+    "main.a511a2bc.js.map": "/cv-generator-build/static/js/main.a511a2bc.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.31aba7b3.js"
+    "static/js/main.a511a2bc.js"
   ]
 }
